@@ -1,0 +1,10 @@
+/knowledge
+
+addtemporal
+1 lagdrinks lagdrinking lagsad lagirr lagrelax laghappy lagenerg lagstress
+2 drinks drinking sad irr relax happy energ stress
+
+forbiddirect
+
+
+requiredirect
